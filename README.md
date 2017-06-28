@@ -18,7 +18,7 @@ allprojects {
 Add the dependency
 ```groovy
 dependencies {
-        compile 'com.github.drfonfon:MagicWand:1.0'
+        compile 'com.github.drfonfon:MagicWand:1.0.0'
 }
 ```
 

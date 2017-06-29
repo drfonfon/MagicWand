@@ -6,6 +6,10 @@
 The library is based on the accelerometer readings. 
 To work correctly need to keep the phone screen up.
 
+[Youtube video](http://www.youtube.com/watch?v=9D2ubZpaGNE)
+
+[Example apk here](https://www.dropbox.com/s/e3ujzeo8trv8r2v/magicWandExample.apk?dl=0)
+
 Add it in your root build.gradle at the end of repositories:
 ```groovy
 allprojects {
